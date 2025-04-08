@@ -4,7 +4,9 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "RPA.Challenge": "[1.0.1]",
+    "RPA.Challenge": "[1.0.3]",
+    "UiPath.Excel.Activities": "[2.25.1-preview]",
+    "UiPath.MicrosoftOffice365.Activities": "[3.0.14]",
     "UiPath.System.Activities": "[25.2.1]"
   },
   "webServices": [],
